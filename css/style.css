@@ -1,5 +1,13 @@
 #my-content{
     margin:auto;
     width: 80%;
-    padding-top: 100px;
+}
+
+h3{
+    padding-bottom: 50px;
+    padding-top: 80px;
+}
+
+p{
+    line-height: 35px;
 }
